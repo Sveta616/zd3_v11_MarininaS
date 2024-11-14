@@ -1,0 +1,40 @@
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe.config
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\bin\Debug\Zadanie3_v11.pdb
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.Form1.resources
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.Properties.Resources.resources
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.exe
+C:\Users\305-11\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.pdb
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe.config
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\bin\Debug\Zadanie3_v11.pdb
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.Form1.resources
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.Properties.Resources.resources
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.exe
+C:\Users\Professional\Desktop\Задание 3\Zadanie3_v11\obj\Debug\Zadanie3_v11.pdb
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe.config
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\bin\Debug\Zadanie3_v11.pdb
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.Form1.resources
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.Properties.Resources.resources
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.exe
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.pdb
+C:\Users\305-11\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe.config
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\bin\Debug\Zadanie3_v11.exe
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\bin\Debug\Zadanie3_v11.pdb
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.Form1.resources
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.Properties.Resources.resources
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.exe
+C:\Users\Professional\Desktop\zd3_v11_MarininaSvetlana-master\Zadanie3_v11\obj\Debug\Zadanie3_v11.pdb
